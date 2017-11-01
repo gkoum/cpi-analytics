@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\@core",
+    "\\src\\app\\@core\\data",
+    "\\src\\app\\@core\\utils",
+    "\\src\\app\\@theme",
+    "\\src\\app\\@theme\\components",
+    "\\src\\app\\@theme\\components\\footer",
+    "\\src\\app\\@theme\\components\\header"
+  ],
+  "SelectedNode": "\\src\\app\\@core\\data\\users.service.ts",
+  "PreviewInSolutionExplorer": false
+}
